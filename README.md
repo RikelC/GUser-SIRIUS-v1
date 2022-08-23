@@ -19,5 +19,5 @@ cd build
 cmake ../GUser-SIRIUS
 make
 
-Note: This version is not maintained very often. Please consult the other version (https://github.com/RikelC/GUser-SIRIUS.git).
+Note: This version is not maintained very often. Please consult the other version (https://github.com/RikelC/GUser-SIRIUS).
 
